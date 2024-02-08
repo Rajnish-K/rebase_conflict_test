@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 something by rajnish other fgfg
+=======
+something by rajnish other
+>>>>>>> 7f518f57f70e7ffbd4f706c2c8ba4f94378f2024
